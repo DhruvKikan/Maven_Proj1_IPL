@@ -1,7 +1,5 @@
 # remind-us
 
-![Remindus Logo](/public/remind-us-banner-large.jpg)
-
 ## Overview
 
 "remind-us" is a birthday reminder application designed to help you keep track of your friends' birthdays and receive timely reminders. With a focus on simplicity and efficiency, this project aims to enhance your birthday celebration experience.
