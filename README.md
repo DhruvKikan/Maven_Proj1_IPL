@@ -7,4 +7,4 @@ This will be my first SpringBoot project so, expect a lack of features and funct
 
 
 ## Technologies / Tech-Stack / Languages
-I'll be using Java version 8?? via IntelliJ and building using Maven. Postman would be to test the application
+I'll be using Java version 20?? IDK ¯\_(ツ)_/¯ via IntelliJ and building using Maven. Postman would be to test the application
